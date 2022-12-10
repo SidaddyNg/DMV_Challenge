@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uiJsN5fX797D0HXM3FlYLAYBMl6YA8bNjo9NJxhwpxgRPNbXDHBwy1FcWujh4IHqody/srNHZEetrkeYj69oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snguye10\\Desktop\\dmvcodechallenge\\DmvAppointmentScheduler\\DmvAppointmentScheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snguye10\\.nuget\\packages\\json.net\\1.0.18\\json.net.1.0.18.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\snguye10\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

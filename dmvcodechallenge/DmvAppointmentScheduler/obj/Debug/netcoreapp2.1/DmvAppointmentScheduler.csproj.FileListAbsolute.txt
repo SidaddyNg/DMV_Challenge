@@ -1,0 +1,120 @@
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\source\repos\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\DmvAppointmentScheduler\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\Documents\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\mensinkja\OneDrive - National Oilwell Varco\OneDDocuments\Projects\Interviews\Code Challenge\DMV Code Challenge\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.AssemblyReference.cache
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Downloads\NOVRigsentry-dmvcodechallenge-51465f3846c2\NOVRigsentry-dmvcodechallenge-51465f3846c2\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.genruntimeconfig.cache
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.AssemblyReference.cache
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Desktop\Coding Interview\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.genruntimeconfig.cache
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\CustomerData.json
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\InputData\TellerData.json
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.deps.json
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.json
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.AssemblyReference.cache
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.dll
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.pdb
+C:\Users\snguye10\Desktop\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.1\DmvAppointmentScheduler.genruntimeconfig.cache
